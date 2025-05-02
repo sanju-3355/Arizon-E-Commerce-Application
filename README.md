@@ -3,7 +3,7 @@
 Create an e-commerce frontend using Next.js with the following features:
 
 > Demo 
-> Link : 
+> Link : https://chaithu-arizon-e-commerce-app.netlify.app/
 
 ### Usage 
 
@@ -20,36 +20,36 @@ npm start                           //to start the application
 ## Functionality
 ### 1. Home Page Design 
 * Create an attractive, responsive home page with:
- - Header with logo, navigation, and cart icon
- - Hero section
- - Featured products section
- - Footer
+  - Header with logo, navigation, and cart icon
+  - Hero section
+  - Featured products section
+  - Footer
 
 ### 2. Product Listing Page
 * Fetch products from a public API ( https://fakestoreapi.com/products)
 * Display products in a responsive grid
 * Each product card should show:
- - Image
- - Title
- - Price
- - "Add to Cart" button
+  - Image
+  - Title
+  - Price
+  - "Add to Cart" button
 
 ### 3. Mini Cart Component
 * When products are added to cart, show a mini cart dropdown when the cart icon is clicked
 * Mini cart should display:
- - List of added products (image, title, quantity, price)
- - Subtotal
- - "View Cart" button
- - "Checkout" button (can be disabled)
+  - List of added products (image, title, quantity, price)
+  - Subtotal
+  - "View Cart" button
+  - "Checkout" button (can be disabled)
 
 ### 4. Full Cart Page
 * Accessible when clicking "View Cart" from mini cart
 * Show all cart items with:
- - Product details (image, title, price)
- - Quantity adjuster (+, - buttons)
- - Remove item option
- - Order summary (subtotal, shipping, total)
- - Proceed to checkout button
+  - Product details (image, title, price)
+  - Quantity adjuster (+, - buttons)
+  - Remove item option
+  - Order summary (subtotal, shipping, total)
+  - Proceed to checkout button
 
 ## Technical Requirements
 * Use Next.js (App Router preferred)
@@ -63,9 +63,9 @@ npm start                           //to start the application
 ## Deliverables
 * GitHub repository with your code
 * README with:
- - Setup instructions
- - Brief explanation of your approach
- - Any assumptions you made
+  - Setup instructions
+  - Brief explanation of your approach
+  - Any assumptions you made
 * Live demo (Vercel, Netlify, etc.) if possible
 
 ## Guidelines
